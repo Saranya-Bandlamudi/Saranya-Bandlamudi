@@ -1,6 +1,6 @@
 # Hi, I'm Saranya Bandlamudi 👋
 
-🎯 Aspiring Data Analyst | Power BI | SQL | Python | Excel
+🎯 Aspiring Data Analyst | Power BI | SQL | Python | Excel | Data Analysis & Visualization 
 
 📊 I transform raw data into meaningful insights that drive better business decisions.
 
