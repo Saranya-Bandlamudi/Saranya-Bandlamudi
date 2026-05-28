@@ -37,7 +37,7 @@ Hi, I'm Saranya Bandlamudi — Final-year Computer Science Engineering student a
 → Completed 2-months certified Python programming internship and gained hands-on coding experience
 
 
-🎓 B.Tech CSE — VKR VNB & AGK College of Engineering |Current CGPA: 7.94/10 | Final Year Student
+🎓 B.Tech CSE — VKR VNB & AGK College of Engineering | Current CGPA: 7.94/10 | Final Year Student
 
 🚀 Graduating 2027 | Seeking internships & fresher Data Analyst roles
 
