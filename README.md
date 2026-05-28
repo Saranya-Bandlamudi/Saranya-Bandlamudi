@@ -15,13 +15,19 @@ Hi, I'm Saranya Bandlamudi — Final-year Computer Science Engineering student a
 Power BI · SQL · MySQL · Python · Excel · Data Modeling · KPI Reporting . DAX
 
 🏆 Achievements:
+
 → 1st Prize — Poster Presentation, VKR Tech Fest 2025
+
 → AP State Skill Competition Participant
+
 → NASSCOM Gen AI Program | Wadhwani Entrepreneur Program
 
 💼 Internship Experience:
+
 → Python Programming Internship — BIST Technologies Pvt. Ltd.
+
 → Learned Python fundamentals, OOP concepts, data structures, and problem-solving
+
 → Completed 2-months certified Python programming internship and gained hands-on coding experience
 
 🎓 B.Tech CSE — VKR VNB & AGK College of Engineering | CGPA: 7.94/10 | Final Year Student
@@ -31,5 +37,6 @@ Power BI · SQL · MySQL · Python · Excel · Data Modeling · KPI Reporting . 
 ## 📬 Connect With Me
 - LinkedIn: linkedin.com/in/saranya-bandlamudi
 - Email: saranyabandlamudi7@gmail.com
+
 📍 Gudivada, AP
 
