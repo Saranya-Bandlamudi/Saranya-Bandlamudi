@@ -4,8 +4,11 @@ Hi, I'm Saranya Bandlamudi — Final-year Computer Science Engineering student a
 
 💼 What I've built:
 → Customer Churn Dashboard — analyzed 7,043 customer records, identified ₹42.67L revenue risk using Excel, SQL & Power BI
+
 → Executive BI Dashboard — tracked ₹13.08L revenue across 4 regions with DAX & Power BI
+
 → HR Analytics Dashboard — monitored employee attrition & workforce KPIs using SQL, MySQL & Power BI
+
 → E-Commerce Sales Dashboard — customer segmentation using Python
 
 🛠️ My Tech Stack:
