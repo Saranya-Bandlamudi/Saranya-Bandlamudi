@@ -4,6 +4,7 @@ Hi, I'm Saranya Bandlamudi — Final-year Computer Science Engineering student a
 
 
 💼 What I've built:
+
 → Customer Churn Dashboard — analyzed 7,043 customer records, identified ₹42.67L revenue risk using Excel, SQL & Power BI
 
 → Executive BI Dashboard — tracked ₹13.08L revenue across 4 regions with DAX & Power BI
@@ -15,7 +16,7 @@ Hi, I'm Saranya Bandlamudi — Final-year Computer Science Engineering student a
 
 🛠️ My Tech Stack:
 
-Power BI · SQL · MySQL · Python · Excel · Data Modeling · KPI Reporting . DAX
+  Power BI · SQL · MySQL · Python · Excel · Data Modeling · KPI Reporting . DAX
 
 
 🏆 Achievements:
@@ -36,7 +37,7 @@ Power BI · SQL · MySQL · Python · Excel · Data Modeling · KPI Reporting . 
 → Completed 2-months certified Python programming internship and gained hands-on coding experience
 
 
-🎓 B.Tech CSE — VKR VNB & AGK College of Engineering | CGPA: 7.94/10 | Final Year Student
+🎓 B.Tech CSE — VKR VNB & AGK College of Engineering |Current CGPA: 7.94/10 | Final Year Student
 
 🚀 Graduating 2027 | Seeking internships & fresher Data Analyst roles
 
