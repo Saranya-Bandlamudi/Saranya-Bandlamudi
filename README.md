@@ -128,7 +128,7 @@ I am a Final Year B.Tech Computer Science Engineering student passionate about s
 
 🔗 LinkedIn: https://www.linkedin.com/in/saranya-bandlamudi?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
-💻 GitHub: 
+💻 GitHub: https://github.com/Saranya-Bandlamudi
 
 📍 Gudivada, Andhra Pradesh, India
 
