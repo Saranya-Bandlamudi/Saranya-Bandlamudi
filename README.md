@@ -88,19 +88,27 @@ I am a Final Year B.Tech Computer Science Engineering student passionate about s
 
 ---
 
-# 🏆 Achievements
+## 🏆 Certifications & Achievements
 
-🥇 First Prize – Poster Presentation, VKR Tech Fest 2025
+📜 Cisco Data Analytics Essentials
 
-💻 Python Programming Intern – BIST Technologies Pvt. Ltd.
+📜 Cisco Python Essentials 1
 
-🏅 AP State Skill Competition Participant
+📜 Cisco Python Essentials 2
 
-🚀 NASSCOM Gen AI Program Participant
+📜 Python Programming Certification (A+)
 
-📜 Data Analytics Essentials Certification from Cisco 
+💼 Python Programming Internship – BIST Technologies
 
----
+🚀 Ignite India 5.0 – Wadhwani Foundation
+
+🥇 1st Prize – Poster Presentation (AI & Big Data)
+
+📄 National Level Technical Paper Presentation – TATVA 2K26
+
+🏆 AP State Skill Competition 2025 Participant
+
+🎓 B.Tech CSE | CGPA: 7.94/10
 
 # 🎯 Current Focus
 
