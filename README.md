@@ -105,7 +105,7 @@ I am a Final Year B.Tech Computer Science Engineering student passionate about s
 # 🎯 Current Focus
 
 - Advanced SQL
-- Data Analytics with Python
+- Data Base Management Systems(NPTEL Course)
 - Power BI Dashboard Development
 - Business Intelligence
 - Data Storytelling
