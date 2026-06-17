@@ -1,291 +1,131 @@
- 
 # 👋 Hi, I'm Saranya Bandlamudi
 
-## 📊 Aspiring Data Analyst | Power BI | SQL | Python | Excel | MySQL | Google Looker Studio 
+### 📊 Aspiring Data Analyst | Power BI | SQL | Python | Excel | Google Looker Studio | Business Intelligence | Data Analysis & Visualization 
 
-Transforming Raw Data into Actionable Business Insights through Analytics, Visualization, and Business Intelligence.
-
-🎓 B.Tech Computer Science Engineering Student (2023–2027)
-
-🏫 VKR, VNB & AGK College of Engineering
-
-📍 Gudivada, Andhra Pradesh, India
-
-🚀 Seeking Data Analyst Internships & Fresher Opportunities
+Transforming raw data into actionable insights through analytics, visualization, and data-driven decision-making.
 
 ---
 
-# 🚀 Professional Summary
+# 🚀 Analytics Portfolio
 
-Passionate and detail-oriented Data Analyst with hands-on experience in Power BI, SQL, Python, MySQL, and Excel.
-
-Skilled in transforming complex datasets into meaningful business insights through dashboard development, KPI reporting, data visualization, and analytical problem-solving.
-
-Currently building an end-to-end Data Analytics Portfolio consisting of real-world business projects across Customer Analytics, HR Analytics, Executive Business Intelligence, Supply Chain Analytics, E-Commerce Analytics, and Fraud Detection.
+I am a Final Year B.Tech Computer Science Engineering student passionate about solving real-world business problems through data analytics, dashboard development, and business intelligence.
 
 ---
 
-# 📂 Featured Analytics Projects
+## 📈 Featured Projects
 
-## 📈 Customer Churn Analysis Dashboard
-
-### Objective
-Analyze customer churn patterns and identify factors impacting customer retention.
-
-### Key Results
-✅ Analyzed 7,043 customer records
-
-✅ Identified 1,869 churned customers
-
-✅ Calculated 26.54% churn rate
-
-✅ Built interactive Power BI dashboards
-
-### Tools Used
-Power BI | SQL | Excel
+| Project | Business Impact | Tools |
+|----------|----------------|---------|
+| Customer Churn Analytics Dashboard | Identified 26.53% churn and ₹42.67L revenue risk across 7,043 customer records | SQL, Power BI, Excel |
+| E-Commerce Sales Performance Dashboard | Analyzed ₹34.8L revenue and ₹6.39L profit to evaluate sales performance and customer behavior | SQL, Python, Power BI |
+| Supply Chain Analytics Dashboard | Analyzed ₹5.77L revenue, 46,099 products sold, supplier performance, logistics, and inventory metrics | SQL, Python, Google Looker Studio |
+| Credit Card Fraud Detection Analytics | Analyzed 568,629+ transactions to identify fraud patterns, anomalies, and financial risks | SQL, Python, Power BI |
+| Executive Business Intelligence Dashboard | Executive KPI reporting, regional performance analysis, and business monitoring dashboard | Power BI, Excel, DAX |
+| HR Analytics Dashboard | Workforce analytics, employee performance insights, and HR KPI reporting | SQL, Power BI, Excel |
 
 ---
 
-## 👥 HR Analytics Dashboard
+# 📊 Analytics Metrics Delivered
 
-### Objective
-Monitor workforce performance, employee attrition, and HR KPIs.
+💰 Identified ₹42.67L Revenue Risk through Customer Churn Analysis
 
-### Key Results
-✅ Employee attrition analysis
+📈 Analyzed ₹34.8L Revenue and ₹6.39L Profit in E-Commerce Analytics
 
-✅ Department-wise workforce insights
+🚚 Evaluated ₹5.77L Revenue and 46,099 Product Sales in Supply Chain Analytics
 
-✅ Employee satisfaction tracking
+🏭 Analyzed 56,784 Production Volume Records
 
-✅ Interactive HR dashboards
+💳 Processed 568,629+ Financial Transactions in Credit Card Fraud Detection
 
-### Tools Used
-SQL | MySQL | Power BI
-
----
-
-## 📊 Executive Business Intelligence Dashboard
-
-### Objective
-Analyze revenue, profit, customer behavior, and regional performance.
-
-### Key Results
-✅ Revenue: ₹13.08 Lakhs
-
-✅ Profit: ₹3.14 Lakhs
-
-✅ Customer Analysis
-
-✅ Regional Performance Tracking
-
-### Tools Used
-Power BI | Excel | DAX
-
----
-
-## 🛒 E-Commerce Sales Dashboard
-
-### Objective
-Analyze customer behavior and sales performance.
-
-### Key Results
-✅ Product Performance Analysis
-
-✅ Revenue Tracking
-
-✅ Customer Segmentation
-
-✅ Business Insights Generation
-
-### Tools Used
-Python | Power BI | Excel
-
----
-
-## 🚚 Supply Chain Analytics Dashboard (Currently Building)
-
-### Objective
-Optimize inventory, supplier performance, logistics, and operational efficiency.
-
-### Planned Analysis
-
-✅ Inventory Management
-
-✅ Supplier Performance
-
-✅ Transportation Analysis
-
-✅ Cost Optimization
-
-### Tools Used
-SQL | Python | Google Looker Studio | Excel
-
----
-
-## 💳 Credit Card Fraud Detection (Currently Building)
-
-### Objective
-Detect fraudulent transactions and identify risk patterns.
-
-### Planned Analysis
-
-✅ Fraud Detection
-
-✅ Transaction Pattern Analysis
-
-✅ Risk Assessment
-
-✅ Machine Learning Insights
-
-### Tools Used
-Python | SQL | Excel
+📊 Built Multiple Interactive Business Intelligence Dashboards
 
 ---
 
 # 🛠 Technical Skills
 
-## 📊 Data Analytics & BI
+### Data Analytics
+- SQL
+- MySQL
+- Python
+- Pandas
+- NumPy
+- Matplotlib
 
-• Power BI
+### Business Intelligence
+- Power BI
+- DAX
+- Power Query
+- Google Looker Studio
 
-• Excel
+### Data Management
+- Data Cleaning
+- Data Validation
+- Data Modeling
+- KPI Reporting
+- ETL Concepts
 
-• Google Looker Studio
-
-• KPI Reporting
-
-• Dashboard Development
-
-• Data Visualization
-
-• DAX
-
----
-
-## 🗄 Database Technologies
-
-• SQL
-
-• MySQL
-
-• Database Design
-
-• Query Optimization
-
----
-
-## 🐍 Programming
-
-• Python
-
-• Pandas
-
-• NumPy
-
-• Data Cleaning
-
-• Data Manipulation
+### Tools & Platforms
+- Excel
+- VS Code
+- GitHub
+- MySQL Workbench
 
 ---
 
-## 📈 Analytics Skills
+# 📂 Portfolio Domains
 
-• Business Intelligence
+✅ Customer Analytics
 
-• Statistical Analysis
+✅ Sales Analytics
 
-• Data Modeling
+✅ Supply Chain Analytics
 
-• ETL Concepts
+✅ Financial Risk Analytics
 
-• Data Interpretation
+✅ Executive Business Intelligence
 
-• Problem Solving
-
----
-
-# 📜 Certifications
-
-🏆 Cisco Data Analytics Essentials
-
-🏆 Python Programming Internship Certificate – BIST Technologies Pvt. Ltd.
-
-🏆 NASSCOM Gen AI Skill Development Program
-
-🏆 Wadhwani Entrepreneurship Program
-
-🏆 NPTEL Database and Content Management Systems (In Progress)
+✅ HR Analytics
 
 ---
 
 # 🏆 Achievements
 
-🥇 1st Prize – Poster Presentation, VKR Tech Fest 2025
+🥇 First Prize – Poster Presentation, VKR Tech Fest 2025
+
+💻 Python Programming Intern – BIST Technologies Pvt. Ltd.
 
 🏅 AP State Skill Competition Participant
 
-🏅 Industry-Level Project Development Experience
+🚀 NASSCOM Gen AI Program Participant
 
-🏅 Multiple Data Analytics Dashboards Developed
-
----
-
-# 💼 Internship Experience
-
-## Python Programming Intern
-### BIST Technologies Pvt. Ltd.
-
-📅 Apr 2025 – Jun 2025
-
-### Responsibilities
-
-✅ Learned Python Fundamentals
-
-✅ Object-Oriented Programming
-
-✅ Data Structures & Algorithms
-
-✅ Problem Solving Techniques
-
-✅ Hands-on Coding Experience
+📜 Data Analytics Essentials Certification from Cisco 
 
 ---
 
-# 🎯 Current Learning Goals
+# 🎯 Current Focus
 
-📚 Advanced SQL
-
-📚 Data Analytics Projects
-
-📚 Supply Chain Analytics
-
-📚 Fraud Detection Analytics
-
-📚 Advanced Power BI
-
-📚 Business Intelligence Solutions
+- Advanced SQL
+- Data Analytics with Python
+- Power BI Dashboard Development
+- Business Intelligence
+- Data Storytelling
 
 ---
 
 # 📫 Connect With Me
 
-🔗 LinkedIn:
-https://linkedin.com/in/saranya-bandlamudi
+📧 Email: saranyabandlamudi7@gmail.com
 
-📧 Email:
-saranyabandlamudi7@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/saranya-bandlamudi?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
-💻 GitHub:
-https://github.com/Saranya-Bandlamudi
+💻 GitHub: https://github.com/Saranya-Bandlamudi
 
-📍 Location:
-Gudivada, Andhra Pradesh, India
+📍 Gudivada, Andhra Pradesh, India
 
 ---
 
-# ⭐ Career Objective
+## 💡 Motto
 
-To leverage analytical thinking, data visualization, and business intelligence skills to help organizations make data-driven decisions while continuously growing as a Data Analytics Professional.
+### Turning Raw Data Into Actionable Insights Through Analytics, Visualization & Storytelling.
 
-"Turning Data into Decisions, and Insights into Impact."
+⭐ Explore my repositories to view complete analytics projects, dashboards, SQL analysis, Python workflows, and business intelligence solutions.
