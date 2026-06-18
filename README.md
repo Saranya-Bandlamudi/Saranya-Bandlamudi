@@ -33,7 +33,7 @@ I am a Final Year B.Tech Computer Science Engineering student passionate about s
 
 🚚 Evaluated ₹5.77L Revenue and 46,099 Product Sales in Supply Chain Analytics
 
-💳 Cleaned 580,615 Records to 390,735 Unique Transactions in Credit Card Fraud Detection
+💳 Analyzed 390,735 financial transactions and identified 106,420 fraudulent transactions (27.24%) using SQL, Python, and Power BI.
 
 📊 Built Multiple Interactive Business Intelligence Dashboards
 
@@ -117,7 +117,7 @@ I am a Final Year B.Tech Computer Science Engineering student passionate about s
 - Power BI Dashboard Development
 - Business Intelligence
 - Data Storytelling
-- Learning Pandas and Matplotlib(Python)
+- Learning Pandas,NumPy,Matplotlib(Python)
 ---
 
 # 📬 Connect With Me
