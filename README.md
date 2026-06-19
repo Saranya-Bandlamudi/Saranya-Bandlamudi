@@ -134,6 +134,6 @@ I am a Final Year B.Tech Computer Science Engineering student passionate about s
 
 ## 💡 Motto
 
-### Turning Raw Data Into Actionable Insights Through Analytics, Visualization & Storytelling.
+# Turning Raw Data Into Actionable Insights Through Analytics, Visualization & Storytelling.
 
 ⭐ Explore my repositories to view complete analytics projects, dashboards, SQL analysis, Python workflows, and business intelligence solutions.
