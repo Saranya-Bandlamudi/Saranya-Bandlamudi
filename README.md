@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Saranya Bandlamudi
 
-### 📊 Power BI | SQL | Python | Excel | Data Analytics | Business Intelligence | Data Visualization 
+### 📊 Power BI | SQL | MySQL | Python | Excel | DAX | Power Query | Google Looker Studio | Data Analytics
 
 Transforming raw data into actionable insights through analytics, visualization, and data-driven decision-making.
 
