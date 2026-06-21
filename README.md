@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Saranya Bandlamudi
 
-### 📊 Power BI | SQL | Python | Excel | Data Analystics | Business Intelligence | Data Visualization 
+### 📊 Power BI | SQL | Python | Excel | Data Analytics | Business Intelligence | Data Visualization 
 
 Transforming raw data into actionable insights through analytics, visualization, and data-driven decision-making.
 
