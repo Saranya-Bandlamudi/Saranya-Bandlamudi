@@ -122,7 +122,7 @@ I am a Final Year B.Tech Computer Science Engineering student passionate about s
 
 # 📬 Connect With Me
 
-📧 Email: saranyabandlamudi7@gmail.com
+📧 Email: saranyabandlamudicse@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/saranya-bandlamudi?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
